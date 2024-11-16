@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731774113 source:c:\users\thaís\desktop\exercicios_ponteiros_apostila\2-capitulo\maiornumero\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
