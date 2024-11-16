@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1731716706 source:c:\users\thaís\desktop\exercicios_ponteiros_apostila\operacoescomnumeros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
