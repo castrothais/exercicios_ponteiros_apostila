@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731765677 source:c:\users\thaís\desktop\exercicios_ponteiros_apostila\calculosalario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

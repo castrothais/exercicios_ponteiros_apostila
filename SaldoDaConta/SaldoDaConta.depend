@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731766213 source:c:\users\thaís\desktop\exercicios_ponteiros_apostila\saldodaconta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

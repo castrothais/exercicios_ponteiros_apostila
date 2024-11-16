@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731769221 source:c:\users\thaís\desktop\exercicios_ponteiros_apostila\consumoracaogatos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
