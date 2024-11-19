@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732046075 source:c:\users\thaís\desktop\home\sistemas-informacao\2 - periodo\github\exercicios_ponteiros_apostila\2-capitulo\soma_operacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
